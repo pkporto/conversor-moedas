@@ -13,7 +13,7 @@ void main() async {
           primaryColor: Colors.white,
           inputDecorationTheme: InputDecorationTheme(
             enabledBorder:
-                OutlineInputBorder(borderSide: BorderSide(color: Colors.white)),
+                OutlineInputBorder(borderSide: BorderSide(color: Colors.blue)),
             focusedBorder:
                 OutlineInputBorder(borderSide: BorderSide(color: Colors.amber)),
             hintStyle: TextStyle(color: Colors.amber),
